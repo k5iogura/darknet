@@ -1,0 +1,6 @@
+classes= 50
+train  = /home/ogura/20076433/get_imagenet/train_50c.txt
+train  = /home/ogura/20076433/get_imagenet/val_50c.txt
+labels = /home/ogura/20076433/get_imagenet/darknet.labels_50c.txt
+backup = INET_T5
+top = 5
